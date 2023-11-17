@@ -21,7 +21,7 @@ Welcome to the Python Projects repository! This collection offers a variety of h
 
 ## Getting Started:
 
-1. Clone the repository: `git clone https://github.com/your-username/Python-Projects.git`
+1. Clone the repository: `git clone https://github.com/Sourav459000/Python-Projects.git`
 2. Navigate to the project of your choice.
 3. Dive into the code, explore, and enhance your Python skills!
 
