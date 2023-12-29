@@ -36,61 +36,12 @@ This Python script implements a simple console-based Hangman game. The player ne
 - **`logo` Module:**
   - Contains ASCII art for the game logo.
 
-## Example:
+## MIT License
 
-```plaintext
- _    _                                         _   
-| |  | |                                       | |  
-| |__| | __ _ _ __   __ _ _ __ ___   __ _ _ __ | |_ 
-|  __  |/ _` | '_ \ / _` | '_ ` _ \ / _` | '_ \| __|
-| |  | | (_| | | | | (_| | | | | | | (_| | | | | |_ 
-|_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|\__|
-                    __/ |                             
-                   |___/                              
+Copyright (c) 2022 Sourav Toshniwal
 
-_ _ _ _ _ _ _ _ _
-Guess the letter in the word: e
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-_ _ _ e _ _ _ _ _ 
-Guess the letter in the word: a
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-_ a _ e _ _ _ _ _ 
-Guess the letter in the word: i
-
-I've already guessed i
-_ a _ e _ _ _ _ _ 
-Guess the letter in the word: s
-
-_ a s e _ _ _ _ _ 
-Guess the letter in the word: r
-
-_ a s e _ r _ _ _ 
-Guess the letter in the word: t
-
-_ a s e _ r t _ _ 
-Guess the letter in the word: w
-
-_ a s e _ r t _ _ 
-Guess the letter in the word: l
-
-Lose a life.
-
-_ a s e _ r t _ _ 
-Guess the letter in the word: o
-
-_ a s e _ r t o _ 
-Guess the letter in the word: p
-
-_ a s e _ r t o p 
-You win
-```
-
-## License:
-
-This Hangman Game script is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```text
-MIT License
-
-Copyright (c) [Year] [Your Name]
-```
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
